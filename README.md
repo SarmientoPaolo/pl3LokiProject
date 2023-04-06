@@ -11,3 +11,8 @@ TransitMode is a program that uses real-time transportation data and machine lea
 
 The main way this is achieved is similar to waze and grab, where the program has a database on certain transportation modes and the prices often given for each individual mode of transportation. Like grab having certain fares per km or jeepneys and buses with certain fares of km. The other modes of transportation like trains will not necessarily be time efficient as the lines for the trains can often affect the time spent for transportation. Another restriction to this is that in first usage it may or may not know the paths as it requires more data on individual locations and such and we will be only be able to provide data based on own experiences as making a more complex dictionary would be more time consuming and the lack of resources and experience on multiple routes will hinder us in giving a good output.
 
+Features:
+ - Ask what their budget, destination, preferred mode and current location
+ - Will show the route with steps (that can include bus/train numbers and stops along the way)
+ - Allows the user to choose if they want to repeat the process
+ - Already includes a dictionary filled with fares from different modes of transportation
