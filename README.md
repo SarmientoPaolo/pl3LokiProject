@@ -18,3 +18,6 @@ Features:
  - Calculation of ETA based on distance, speed, and rush hour times
  - Handling of invalid user input
  - Looping until user chooses to exit the program.
+
+Youtube video with explaination and steps:
+https://youtu.be/3gXOMQxSEf8
